@@ -3,7 +3,9 @@ Programs that I used during my honors thesis to produce my results. Demonstrates
 
 Programs ending in .dat are the data files used for training and validation. Those with the uw prefix are unweighted versions of the others, with all weights rescaled to 1.
 
-To run any of the programs, simply run $ python [filename]
+Due to the size of one of the files, it had to be compressed in order to be uploaded to github. Please uncompress before using.
+
+To run any of the programs, ensure that all data is unpacked and run $ python [filename]
 
 All programs require 3rd party libraries sklearn (http://scikit-learn.org) and matplotlib (http://matplotlib.org)
 
